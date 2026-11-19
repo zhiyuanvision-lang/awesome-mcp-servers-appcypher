@@ -278,6 +278,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://raw.githubusercontent.com/zhiyuanvision-lang/InkMap/main/assets/logo-400.png" height="14"/> [Inkmap](https://github.com/zhiyuanvision-lang/InkMap) - Interactive two-way Markdown mind map (Markmap) & Mermaid flowchart editor / MCP App with byte-preserving `.md` write-back, KaTeX math, and PNG/SVG export.
+
 ## ⚡ <a name="cloud-platforms"></a>Cloud Platforms
 
 > Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
